@@ -2,5 +2,4 @@ pyrogram==1.4.16
 telethon
 tgcrypto
 pymongo
-cpython
 pyromod
