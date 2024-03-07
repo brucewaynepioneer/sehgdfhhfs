@@ -1,6 +1,6 @@
 pyrogram==1.4.16
 telethon
-tgcrytpo
+tgcrypto
 pymongo
 cpython
 pyromod
